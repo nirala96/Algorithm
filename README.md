@@ -1,1 +1,1 @@
-# Algorithm
+# Algorithm for Computer Science Students
